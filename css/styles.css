@@ -50,7 +50,7 @@ body, html {
   text-align: center;
   margin: auto;
 }
-/*
+
 .container {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -76,7 +76,7 @@ body, html {
     border-radius: 10px;
     box-shadow: 0 0 15px #ddd;
 }
-*/
+
 .card {
   display: flex;
   align-items: center;
